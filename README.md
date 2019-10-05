@@ -11,3 +11,5 @@ This project incorporates three features I find particularly helpful to stimulat
 * Utilized JavaScript to handle user interaction of a responsive timer and list.
 * Integrated a Spotify playlist within the browser.
 * Built a clean UI/UX design.
+
+[View demo](https://cstamper6.github.io/studyAssistant/ "studyAssistant")
