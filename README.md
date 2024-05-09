@@ -1,8 +1,6 @@
 # studyAssistant
 A web application that increases productivity during study/work sessions.
 
-[View demo](https://stampercasey.github.io/studyAssistant/ "studyAssistant")
-
 This project incorporates three features I find particularly helpful to stimulate focus.
   1. The Pomodoro Technique
   2. Spotify's Chill Lofi Study Beats playlist
